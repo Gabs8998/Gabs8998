@@ -13,3 +13,6 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabs8998&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     </a>
 </div>
+
+<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <code>
+<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <code>

@@ -2,12 +2,9 @@
 
 
 - 🔭 Aluna em desenvolvimento de sistemas no SENAI
-- 👨‍🎓 Jovem aprendiz na BOSCH 
-- 📚 Sou apaixonada por front-end, sempre procurando desenvolver minhas habilidas
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
-- 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- 👨‍🎓  Atuo como Jovem aprendiz pela empresa BOSCH 
+- 📚 Tenho muito interesse na aárea de front-end, sempre procurando desenvolver minhas habilidades.
+
 
 
 <div>

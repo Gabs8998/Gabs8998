@@ -14,5 +14,6 @@
     </a>
 </div>
 
-<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <code>
-<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> <code>
+<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> </code>
+<code> <img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> </code>
+![Snake animation](https://github.com/Gabs8998/Gabs8998/blob/output/github-contribution-grid-snake.svg)
